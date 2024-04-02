@@ -34,7 +34,7 @@ for(int i=0;i<3;i++){ //Function
     cout << endl;
     }
 
-for (int i=0;i<3;i++) {
+for (int i=0;i<3;i++) { //Function 
     cout << endl;
     cout << "Data Mahasiswa ke-" << (i+1) << ": " << endl;
     cout << "\n NIM : " << mhs[i].nim;
